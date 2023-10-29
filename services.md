@@ -3,11 +3,6 @@ layout: page
 title: "" 
 ---
 
-
-# Mentorship
-## Difei Kang
-## Jonathan Edward Bryan
-
 <!-- ## Teaching Experiences
 - University of Texas at Austin. ECE 461P (Senior Undergraduate/ Graduate) : Data Science Principles 
 - University of California Irvine. EECS 50 (Undergraduate) : Discrete Time signals and systems 

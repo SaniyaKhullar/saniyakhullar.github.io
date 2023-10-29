@@ -24,7 +24,7 @@ description: "PhD Candidate @UW Madison"
 
 # List of links in the navigation bar
 navbar-links:
-   About: "about"
+   # Bio: "bio"
    # Bio: "aboutme"
    #Resume: "https://www.wncg.org/sites/default/files/cv/CV_ANISH.pdf"
    Publications: "publications"
@@ -32,17 +32,17 @@ navbar-links:
    Press: "press"   
    Awards: "awards"
    Outreach: "services"
-   Tutorials:
-     - YouTube: "youtube": #"https://github.com/anishacharya/Online-Embedding-Compression-AAAI-2019"
-     - GitHub: "https://github.com/SaniyaKhullar"
-   Patents: "patents"
+  #  Open Source:
+  #    - Embedding Compression: "https://github.com/anishacharya/Online-Embedding-Compression-AAAI-2019"
+  #    - BGMD: "https://github.com/anishacharya/BGMD"
+  #    - DeLiCoCo: "https://github.com/anishacharya/DeLiCoCo"
+  #    - OpenMSFTL: "https://github.com/microsoft/OpenMSFTL"
+  #    - Lexical Substitution: "https://anishacharya.github.io/LexSub/"
+     # - Double Descent: "https://anishacharya.github.io/double-descent/"
    Pointers:
      - Acknowledgements: "acknowledgements"
      - Daifeng Wang Lab: "https://daifengwanglab.org/"
      - CIBM UW Madison: "https://cibm.wisc.edu/"
-     - Webtools: "webtools"
-     #- Conf Rank: "https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_artificialintelligence"	
-     #- Conf Cal: "https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR"
      #- Fundings: "fundings"
 #  About Me: "aboutme"
 #  Resources:
@@ -116,11 +116,9 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
- # facebook: true
+  facebook: true
   google: false
   linkedin: true
-  youtube: true
-  github: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer

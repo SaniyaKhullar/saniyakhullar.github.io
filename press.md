@@ -2,18 +2,12 @@
 layout: page
 title: "" 
 ---
-## Press Coverage / News articles
-#### 2020:
-- October 2020: [Newly identified coronavirus epitopes induce robust antibody responses](https://www.news-medical.net/news/20201012/Newly-identified-coronavirus-epitopes-induce-robust-antibody-responses.aspx) 🔬👩‍🔬
-#### 2021:
-- February 2021: International Society for Computational Biology - Student Council (ISCB-SC) Webinar [Predicting regulatory mechanisms in Alzheimer's disease progression
-](https://www.youtube.com/watch?v=ITwEzqhQnZU&list=PL_3UUp3wcnVbpTH4UfeybVhGcjyML3N2h)
-- March 2021: [Research Day 2021 Poster Session Award Winners](https://www.adrc.wisc.edu/news/research-day-2021-poster-session-award-winners)
-#### 2022:
-- April 2022: Alzheimer's Disease & Related Dementias Research Day (ADRD) 2022 
-  - [Overview](https://www.adrc.wisc.edu/adrd2022) 
-  - [Winners and Conference Wrap](https://www.adrc.wisc.edu/news/research-day-2022-poster-session-award-winners-and-conference-wrap)
-  - [Video of Lightning Presentations](https://www.youtube.com/watch?v=LAAfUB3oPtQ&list=PL_3UUp3wcnVbpTH4UfeybVhGcjyML3N2h&index=5)
-#### 2023:
-- February 2023: [New Machine Learning Tool Helps Researchers Demonstrate Effectiveness of Stem Cell Based Models](https://www.waisman.wisc.edu/2023/02/27/new-machine-learning-tool-helps-researchers-demonstrate-effectiveness-of-stem-cell-based-models/)
-- June 2023: Attendees of the 2023 NLM T15 Training Conference Hosted by Stanford University’s Department of Biomedical Data Science (DBDS) [Focus Talks](https://dbds.stanford.edu/national-library-of-medicine-nlm-t15-training-conference/#focus-talks)
+## Press Coverage
+- Sept 2020. [CNN (Alexa Conversations)](https://www.cnn.com/2020/09/25/tech/amazon-alexa-conversational-ai/index.html)
+- July 2020. [Alexa Live (Alexa Conversations)](https://youtu.be/1nYfRvg976E)
+- June 2019. [Forbes (Alexa Conversations)](https://www.forbes.com/sites/cognitiveworld/2019/06/12/amazon-advances-conversational-applications/?sh=443c78197d26) ;  
+- June 2019. [VentureBeat (Alexa Conversations)](https://www.youtube.com/watch?v=hEIjCF-KaRY) ;  
+- June 2019. [Amazon Science Blog (Alexa Conversations)](https://www.amazon.science/blog/amazon-unveils-novel-alexa-dialog-modeling-for-natural-cross-skill-conversations)
+- Jan 2019. [Amazon Science Blog (On Device Model Compression)](https://developer.amazon.com/blogs/alexa/post/a7bb4a16-c86b-4019-b3f9-b0d663b87d30/new-method-for-compressing-neural-networks-better-preserves-accuracy)
+- Jan 2019. [Packt Blog Post (On Device Model Compression)](https://www.google.com/amp/s/hub.packtpub.com/amazon-alexa-ai-researchers-develop-new-method-to-compress-neural-networks-and-preserves-accuracy-of-system/amp/)
+- May 2007. [The Telegraph (State Merit List)](https://www.telegraphindia.com/states/west-bengal/upswing-in-city-pass-rate/cid/1005795)

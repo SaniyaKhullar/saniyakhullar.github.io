@@ -15,4 +15,3 @@ On a zoomed-out level, some of my accomplishments during my time at U.W.-Madison
 •	Georgetown University Pi Mu Epsilon Society, 2015.<br>
 •	Smart Woman Securities National Mentorship Program, 2013.<br>
 •	National Math Honor Society, 2009.<br>
-
