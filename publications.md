@@ -30,3 +30,8 @@ Please note my publications 🤓📚🧬 are as follows 📖 :
 
 #### 2018: ⌛
 -	Michala Skovlund Sørensen, Elizabeth C. Silvius, **Saniya Khullar**, Klaus Hindsø, Jonathan A. Forsberg, Michael Mørk Petersen, *Biochemical Variables are Predictive for Patient Survival after Surgery for Skeletal Metastasis. A Prediction Model Development and External Validation Study*, The Open Orthopaedics Journal. [Link](https://openorthopaedicsjournal.com/VOLUME/12/PAGE/469/)
+
+### Conference Abstracts: ✏️
+#### 2022: ⌛
+-	Albert R. Wang, **Saniya Khullar**, Jared Brown, Andrew Baschnagel, Darya Buehler, Christina Kendziorski, Gopal Iyer. *Remodeling the extracellular matrix environment enables the dissemination of primary tumor cells through a chemokine gradient to establish brain metastasis in non-small cell lung cancer adenocarcinoma* [abstract]. In: Proceedings of the American Association for Cancer Research Annual Meeting 2022; 2022 Apr 8-13. Philadelphia (PA): AACR; Cancer Res 2022;82(12_Suppl):Abstract nr 3859. [Link](https://aacrjournals.org/cancerres/article/82/12_Supplement/3859/703910)
+- **Saniya Khullar**, Daifeng Wang, *Predicting gene regulatory networks from multi-omics to link genetic risk variants and neuroimmunology to Alzheimer’s disease phenotypes*. Alzheimers Dement. 2022;18:e068648. [Link](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.068648)
