@@ -24,6 +24,7 @@ description: "PhD Candidate @UW Madison"
 
 # List of links in the navigation bar
 navbar-links:
+   About: "aboutSaniya"
    # Bio: "bio"
    # Bio: "aboutme"
    #Resume: "https://www.wncg.org/sites/default/files/cv/CV_ANISH.pdf"
@@ -31,7 +32,11 @@ navbar-links:
    Talks: "talks"
    Press: "press"   
    Awards: "awards"
+   Patents: "patents"
    Outreach: "services"
+   Tutorials:
+     - YouTube: "youtube": #"https://github.com/anishacharya/Online-Embedding-Compression-AAAI-2019"
+     - GitHub: "https://github.com/SaniyaKhullar"
   #  Open Source:
   #    - Embedding Compression: "https://github.com/anishacharya/Online-Embedding-Compression-AAAI-2019"
   #    - BGMD: "https://github.com/anishacharya/BGMD"
