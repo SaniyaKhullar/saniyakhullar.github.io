@@ -19,7 +19,7 @@ Hi everyone! I am Saniya Khullar :D
   <input type="hidden" name="_subject" value="New submission from deanattali.com">
   <textarea type="text" name="content" class="form-control form-control-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
   <input type="text" name="_gotcha" style="display:none">
-  <input type="hidden" name="_next" value="?message=Your message was sent successfully, thanks :)!" />
+  <input type="hidden" name="_next" value="?message=Your message was sent successfully, thanks!" />
   
   <div style="font-size: 12px; margin: -10px 0 10px;">Please note this is the <b>personal</b> contact form for Saniya Khullar. On average, responses will be made within 24-48 hours :D</a>.</div>
   

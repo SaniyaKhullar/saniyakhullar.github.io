@@ -2,7 +2,7 @@
 layout: page
 title: "Publications" 
 ---
-Please note that my latest papers and citations are available online at: 👩‍💻
+Please note that my papers and citations are available online at: 👩‍💻
 * [Google Scholar](https://scholar.google.com/citations?user=2YXiDBkAAAAJ&hl=en) 
 * [Research Gate](https://www.researchgate.net/profile/Saniya-Khullar)
 

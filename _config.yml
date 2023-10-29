@@ -17,7 +17,7 @@ baseurl: ""
 
 # Name of website
 title: Saniya Khullar
-description: "PhD Candidate @UW Madison"
+description: "PhD Candidate @UW Madison, Passionate Educator"
 # Short description of your site
 
 # --- Navigation bar options --- #
@@ -25,29 +25,23 @@ description: "PhD Candidate @UW Madison"
 # List of links in the navigation bar
 navbar-links:
    About: "aboutSaniya"
-   # Bio: "bio"
    # Bio: "aboutme"
    #Resume: "https://www.wncg.org/sites/default/files/cv/CV_ANISH.pdf"
    Publications: "publications"
    Talks: "talks"
    Press: "press"   
    Awards: "awards"
-   Patents: "patents"
    Outreach: "services"
    Tutorials:
      - YouTube: "youtube": #"https://github.com/anishacharya/Online-Embedding-Compression-AAAI-2019"
      - GitHub: "https://github.com/SaniyaKhullar"
-  #  Open Source:
-  #    - Embedding Compression: "https://github.com/anishacharya/Online-Embedding-Compression-AAAI-2019"
-  #    - BGMD: "https://github.com/anishacharya/BGMD"
-  #    - DeLiCoCo: "https://github.com/anishacharya/DeLiCoCo"
-  #    - OpenMSFTL: "https://github.com/microsoft/OpenMSFTL"
-  #    - Lexical Substitution: "https://anishacharya.github.io/LexSub/"
-     # - Double Descent: "https://anishacharya.github.io/double-descent/"
+     - WebTools: "webtools"
    Pointers:
      - Acknowledgements: "acknowledgements"
      - Daifeng Wang Lab: "https://daifengwanglab.org/"
      - CIBM UW Madison: "https://cibm.wisc.edu/"
+     - Fundraiser: "https://www.gofundme.com/f/5t5rd-donate-to-help-build-a-school-in-a-poor-village"
+     - YouTube: "https://www.youtube.com/c/SaniyaKhullar"    
      #- Fundings: "fundings"
 #  About Me: "aboutme"
 #  Resources:
