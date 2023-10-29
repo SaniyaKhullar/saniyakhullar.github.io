@@ -25,24 +25,18 @@ description: "PhD Candidate @UW Madison, Passionate Educator"
 # List of links in the navigation bar
 navbar-links:
    About: "aboutSaniya"
-   # Bio: "aboutme"
-   #Resume: "https://www.wncg.org/sites/default/files/cv/CV_ANISH.pdf"
-   Publications: "publications"
-   Talks: "talks"
-   Press: "press"   
-   Awards: "awards"
-   Patents: "patents"
+   Experience:
+      - Publications: "publications"
+      - Talks: "talks"
+      - Press: "press"   
+      - Awards: "awards"
+      - Patents: "patents"
+      - Timeline: "timeline"
+      - Resume: "resume"
    Outreach: "services"
    Tutorials:
-     - YouTube: "youtube" #"https://github.com/anishacharya/Online-Embedding-Compression-AAAI-2019"
+     - YouTube: "youtube" 
      - GitHub: "https://github.com/SaniyaKhullar"
-  #  Open Source:
-  #    - Embedding Compression: "https://github.com/anishacharya/Online-Embedding-Compression-AAAI-2019"
-  #    - BGMD: "https://github.com/anishacharya/BGMD"
-  #    - DeLiCoCo: "https://github.com/anishacharya/DeLiCoCo"
-  #    - OpenMSFTL: "https://github.com/microsoft/OpenMSFTL"
-  #    - Lexical Substitution: "https://anishacharya.github.io/LexSub/"
-     # - Double Descent: "https://anishacharya.github.io/double-descent/"
    Pointers:
      - Acknowledgements: "acknowledgements"
      - Daifeng Wang Lab: "https://daifengwanglab.org/"
