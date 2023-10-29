@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Reading Group
-subtitle: 
+subtitle: List of Seminal Papers 
 ---
+
 

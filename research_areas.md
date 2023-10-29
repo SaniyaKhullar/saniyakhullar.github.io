@@ -3,7 +3,7 @@ layout: page
 title: Research Areas
 ---
 Problems I am thinking about these days:  
-## Theory: 
+<!-- ## Theory: 
 [1] Learning Accuracy Preserving Low Resource DNN Models   
 [2] Effects of LR Schedule on GD based Non-convex optimization methods  
 [3] Understanding the Topology and geometry of DNNs  
@@ -25,4 +25,4 @@ Problems I am thinking about these days:
 [4] Automated Crowdsourcing to collect Dialog Data   
 [5] Annotator Model (Automated Annotation Model)  
 [6] User Agent Self Play  
-[7] Information theoretic Coherence    
+[7] Information theoretic Coherence     -->
