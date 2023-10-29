@@ -34,7 +34,7 @@ navbar-links:
    Patents: "patents"
    Outreach: "services"
    Tutorials:
-     - YouTube: "youtube": #"https://github.com/anishacharya/Online-Embedding-Compression-AAAI-2019"
+     - YouTube: "youtube" #"https://github.com/anishacharya/Online-Embedding-Compression-AAAI-2019"
      - GitHub: "https://github.com/SaniyaKhullar"
   #  Open Source:
   #    - Embedding Compression: "https://github.com/anishacharya/Online-Embedding-Compression-AAAI-2019"
