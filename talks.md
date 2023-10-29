@@ -3,7 +3,7 @@ layout: page
 title: "" 
 ---
 ## Research Talks 
-Please note that I have presented directly for these posters/talks:
+Please note that I have presented directly for these posters/talks:<br>
 •	University of Iowa College of Public Health (Summer Institute in Biostatistics), Iowa City, Iowa, Presentation, 2014. <br>
 •	Alzheimer’s Association International Conference (AAIC) - Neuroscience Next, Virtual, Poster, 2020.<br>
 •	International Society for Computational Biology – Student Council (ISCB-SC), Virtual, Webinar, 2021.<br>
