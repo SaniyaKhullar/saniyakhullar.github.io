@@ -2,28 +2,18 @@
 layout: page
 title: "" 
 ---
-Please note that my latest papers and citations are available online at: 👩‍💻
-* [Google Scholar](https://scholar.google.com/citations?user=2YXiDBkAAAAJ&hl=en) 
-* [Research Gate](https://www.researchgate.net/profile/Saniya-Khullar)
-
-Please note my publications 🤓📚🧬 are as follows 📖 : 
-<!-- https://emojipedia.org/people -->
-### Revisions/Under Review/Preprint: ✏️
--	**Saniya Khullar**, Xiang Huang, Raghu Ramesh, John Svaren, Daifeng Wang, *NetREm: Network Regression Embeddings reveal cell-type transcription factor coordination for gene regulation*, under review, Biorxiv.
--	Bo P. Lear, Elizabeth A.N. Thompson, Kendra Rodriguez, Zachary P. Arndt, **Saniya Khullar**, Payton Klosa, Ryan Lu, Christopher S. Morrow, Ryan Risgaard, Ella R. Peterson, Brian Teefy, Anita Bhattacharyya, Andre M.M. Sousa, Daifeng Wang, Berenice Benayoun, Darcie L. Moore, *Age-specific imprinting through direct reprogramming reveals a developmental loss of intrinsic neurite growth ability in human neurons*, under review, Biorxiv. [Link](https://doi.org/10.1101/2023.05.23.541995)
-
-### Published: 😺 
-#### 2023: ⌛
--	Pramod Bharadwaj Chandrashekar, Sayali Alatkar, Jiebiao Wang, Gabriel E. Hoffman, Chenfeng He, Ting Jin, **Saniya Khullar**, Jaroslav Bendl, John F. Fullard, Panagiotis Roussos, Daifeng Wang, *DeepGAMI: Deep biologically guided auxiliary learning for multimodal integration and imputation to improve phenotype prediction*, accepted (Genome Medicine), Biorxiv. [Link](https://doi.org/10.1101/2022.08.16.504101)
--	Minjie Shen, Carissa L Sirois, Meng Li, Yu Guo, Qiping Dong, Natasha Mendez-Albelo, Yu Gao, **Saniya Khullar**, Lee Kissel, Jonathan Bryan, Soraya O Sandoval, Natalie Wolkoff, Amaya Contractor, Sabrina Huang, Tomer Korabelnikov, Birth Defects Research Laboratory BDRL, Jon Levine, Andre MM Sousa, Qiang Chang, Anita Bhattacharyya, Daifeng Wang, Donna Werling, Xinyu Zhao, *Species-specific FMRP regulation of RACK1 is critical for prenatal cortical development, Neuron*. [Link](https://doi.org/10.1016/j.neuron.2023.09.014)
--	Chenfeng He, Noah Cohen Kalafut, Soraya O. Sandoval, Ryan Risgaard, Carissa L. Sirois, Chen Yang, **Saniya Khullar**, Marin Suzuki, Xiang Huang, Qiang Chang, Xinyu Zhao, Andre M.M. Sousa, Daifeng Wang, *Brain and Organoid Manifold Alignment (BOMA), a machine learning framework for comparative gene expression analysis across brains and organoids, Cell Reports Methods*. [Link](https://doi.org/10.1016/j.crmeth.2023.100409)
--	**Saniya Khullar**, Daifeng Wang, *Predicting brain-regional gene regulatory networks from multi-omics for Alzheimer’s disease phenotypes and Covid-19 severity*, Human Molecular Genetics. [Link](https://doi.org/10.1093/hmg/ddad009)
-#### 2022: ⌛
--	Shuang Liu, Hyejung Won, Declan Clarke, Nana Matoba, **Saniya Khullar**, Yudi Mu, Daifeng Wang, Mark Gerstein,
-*Illuminating links between cis-regulators and trans-acting variants in the human prefrontal cortex*, Genome Medicine. [Link](https://doi.org/10.1186/s13073-022-01133-8)
--	Chirag Gupta, Jielin Xu, Ting Jin, **Saniya Khullar**, Xiaoyu Liu, Sayali Alatkar, Feixiong Cheng, Daifeng Wang, *Single-cell network biology characterizes cell-type gene regulation for drug repurposing and phenotype prediction in Alzheimer’s disease*, PLOS Computational Biology. (Cover image of July 2022 issue) [Link](https://doi.org/10.1371/journal.pcbi.1010287)
--	Chirag Gupta, Pramod Chandrashekar, Chenfeng He, Ting Jin, **Saniya Khullar**, Qiang Chang, Daifeng Wang, *Bringing artificial intelligence to research on intellectual and developmental disabilities: taking inspiration from neurological diseases IDDRC 2022 special issue on Computational Neuroscience*, Journal of Neurodevelopmental Disorders. [Link](https://doi.org/10.1186/s11689-022-09438-w)
-#### 2021: ⌛
--	Anna S. Heffron, Sean J. McIlwain, Maya F. Amjadi, David A. Baker, **Saniya Khullar**, Tammy Armbrust, Peter J. Halfmann, Yoshihiro Kawaoka, Ajay K. Sethi, Ann C. Palmenberg, Miriam A. Shelef, David H. O’Connor, Irene M. Ong, *The landscape of antibody binding in SARS-CoV-2 infection*, PLOS Biology. [Link](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001265)
-#### 2018: ⌛
--	Michala Skovlund Sørensen, Elizabeth C. Silvius, **Saniya Khullar**, Klaus Hindsø, Jonathan A. Forsberg, Michael Mørk Petersen, *Biochemical Variables are Predictive for Patient Survival after Surgery for Skeletal Metastasis. A Prediction Model Development and External Validation Study*, The Open Orthopaedics Journal. [Link](https://openorthopaedicsjournal.com/VOLUME/12/PAGE/469/)
+## Press Coverage / News articles
+#### 2020:
+- October 2020: [Newly identified coronavirus epitopes induce robust antibody responses](https://www.news-medical.net/news/20201012/Newly-identified-coronavirus-epitopes-induce-robust-antibody-responses.aspx) 🔬👩‍🔬
+#### 2021:
+- February 2021: International Society for Computational Biology - Student Council (ISCB-SC) Webinar [Predicting regulatory mechanisms in Alzheimer's disease progression
+](https://www.youtube.com/watch?v=ITwEzqhQnZU&list=PL_3UUp3wcnVbpTH4UfeybVhGcjyML3N2h)
+- March 2021: [Research Day 2021 Poster Session Award Winners](https://www.adrc.wisc.edu/news/research-day-2021-poster-session-award-winners)
+#### 2022:
+- April 2022: Alzheimer's Disease & Related Dementias Research Day (ADRD) 2022 
+  - [Overview](https://www.adrc.wisc.edu/adrd2022) 
+  - [Winners and Conference Wrap](https://www.adrc.wisc.edu/news/research-day-2022-poster-session-award-winners-and-conference-wrap)
+  - [Video of Lightning Presentations](https://www.youtube.com/watch?v=LAAfUB3oPtQ&list=PL_3UUp3wcnVbpTH4UfeybVhGcjyML3N2h&index=5)
+#### 2023:
+- February 2023: [New Machine Learning Tool Helps Researchers Demonstrate Effectiveness of Stem Cell Based Models](https://www.waisman.wisc.edu/2023/02/27/new-machine-learning-tool-helps-researchers-demonstrate-effectiveness-of-stem-cell-based-models/)
+- June 2023: Attendees of the 2023 NLM T15 Training Conference Hosted by Stanford University’s Department of Biomedical Data Science (DBDS) [Focus Talks](https://dbds.stanford.edu/national-library-of-medicine-nlm-t15-training-conference/#focus-talks)

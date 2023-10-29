@@ -28,7 +28,7 @@ navbar-links:
    Experience:
       - Publications: "publications"
       - Talks: "talks"
-      - Press: "press"   
+      - News: "news"   
       - Awards: "awards"
       - Patents: "patents"
       - Timeline: "timeline"
@@ -37,6 +37,7 @@ navbar-links:
    Tutorials:
      - YouTube: "youtube" 
      - GitHub: "https://github.com/SaniyaKhullar"
+     - Webtools: "webtools"
    Pointers:
      - Acknowledgements: "acknowledgements"
      - Daifeng Wang Lab: "https://daifengwanglab.org/"

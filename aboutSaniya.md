@@ -21,7 +21,7 @@ Hi everyone! I am Saniya Khullar :D
   <input type="text" name="_gotcha" style="display:none">
   <input type="hidden" name="_next" value="?message=Your message was sent successfully, thanks!" />
   
-  <div style="font-size: 12px; margin: -10px 0 10px;">Please note this is the <b>personal</b> contact form for Saniya Khullar. On average, responses will be made within 24-48 hours :D</a>.</div>
+  <div style="font-size: 12px; margin: -10px 0 10px;">Please note this is the <b>personal</b> contact form for Saniya Khullar. On average, responses will be made within 24-48 hours :D.</div>
   
   <button type="submit" class="btn btn-lg btn-primary">Submit</button>
 </form>
