@@ -4,7 +4,7 @@ title: "Publications"
 ---
 Please note that my latest papers and citations are available online at: 👩‍💻
 * [Google Scholar](https://scholar.google.com/citations?user=2YXiDBkAAAAJ&hl=en) 
-* [Research Gate](https://www.researchgate.net/profile/Saniya-Khullar). 
+* [Research Gate](https://www.researchgate.net/profile/Saniya-Khullar)
 
 Please note my publications 🤓📚🧬 are as follows 📖 : 
 <!-- https://emojipedia.org/people -->
