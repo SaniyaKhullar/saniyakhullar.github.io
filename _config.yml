@@ -33,7 +33,9 @@ navbar-links:
       - Patents: "patents"
       - Timeline: "timeline"
       - Resume: "resume"
-   Outreach: "services"
+   Outreach: 
+     - Teaching: "services"
+     - Volunteering: "volunteering"
    Tutorials:
      - YouTube: "youtube" 
      - GitHub: "https://github.com/SaniyaKhullar"
