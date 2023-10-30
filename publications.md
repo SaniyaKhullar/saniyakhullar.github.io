@@ -9,7 +9,7 @@ Please note that my papers and citations are available online at: 👩‍💻
 Please note my publications 🤓📚🧬 are as follows 📖 : 
 <!-- https://emojipedia.org/people -->
 ### Revisions/Under Review/Preprint: ✏️
--	**Saniya Khullar**, Xiang Huang, Raghu Ramesh, John Svaren, Daifeng Wang, *NetREm: Network Regression Embeddings reveal cell-type transcription factor coordination for gene regulation*, under review, Biorxiv.
+-	**Saniya Khullar**, Xiang Huang, Raghu Ramesh, John Svaren, Daifeng Wang, *NetREm: Network Regression Embeddings reveal cell-type transcription factor coordination for gene regulation*, under review, Biorxiv. [Link](https://www.biorxiv.org/content/10.1101/2023.10.25.563769v1)
 -	Bo P. Lear, Elizabeth A.N. Thompson, Kendra Rodriguez, Zachary P. Arndt, **Saniya Khullar**, Payton Klosa, Ryan Lu, Christopher S. Morrow, Ryan Risgaard, Ella R. Peterson, Brian Teefy, Anita Bhattacharyya, Andre M.M. Sousa, Daifeng Wang, Berenice Benayoun, Darcie L. Moore, *Age-specific imprinting through direct reprogramming reveals a developmental loss of intrinsic neurite growth ability in human neurons*, under review, Biorxiv. [Link](https://doi.org/10.1101/2023.05.23.541995)
 
 ### Published: 😺 
