@@ -11,7 +11,7 @@ Please note that I have presented directly for these posters/talks:<br>
 •	American Society for Human Genetics, Virtual, Poster, 2021.<br>
 •	London Festival of Genomics and Biodata, Virtual, Poster, 2022.<br>
 •	Computation and Informatics in Biology and Medicine Seminar, U.W.-Madison, Madison, Wisconsin, 1 hour talk, 2022.<br>
-•	[Alzheimer’s Disease Research Day (ADRD) at U.W.-Madison, Madison, WI, Lightning Presentation, 2022.](https://www.adrc.wisc.edu/adrd2022) [Video](https://www.youtube.com/watch?v=LAAfUB3oPtQ&list=PL_3UUp3wcnVbpTH4UfeybVhGcjyML3N2h&index=5)<br>
+•	[Alzheimer’s Disease Research Day (ADRD) at U.W.-Madison, Madison, WI, Lightning Presentation, 2022.](https://www.adrc.wisc.edu/adrd2022) [Video](https://www.youtube.com/watch?v=LAAfUB3oPtQ&list=PL_3UUp3wcnVbpTH4UfeybVhGcjyML3N2h&index=5) [Twitter](https://twitter.com/WisconsinADRC/status/1511451546759974917)<br>
 •	[U.W. – Madison CIBM and Biomedical Data Science Annual Retreat, Madison, WI, Poster and short talk, 2022.](http://www.cibm.wisc.edu/retreat/)<br>
 •	[St. Jude Children’s Research Hospital Future Fellow Research Conference (FFRC), Memphis, Tennessee, Poster, 2022.](https://www.stjude.org/education-training/predoctoral-training/graduate-students/national-graduate-student-symposium-ngss.html)<br>
 •	Annual Center for Genomic Science Innovation (CGSI) Genomics Retreat, University of Wisconsin - Madison, Madison, Wisconsin, Poster, 2022.<br>

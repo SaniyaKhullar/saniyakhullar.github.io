@@ -20,3 +20,4 @@ title: ""
 #### 2023:
 - February 2023: [New Machine Learning Tool Helps Researchers Demonstrate Effectiveness of Stem Cell Based Models](https://www.waisman.wisc.edu/2023/02/27/new-machine-learning-tool-helps-researchers-demonstrate-effectiveness-of-stem-cell-based-models/)
 - June 2023: Attendees of the 2023 NLM T15 Training Conference Hosted by Stanford University’s Department of Biomedical Data Science (DBDS) [Focus Talks](https://dbds.stanford.edu/national-library-of-medicine-nlm-t15-training-conference/#focus-talks)
+- October 2023: Discovery reveals fragile X syndrome begins developing even before birth (based on co-author paper) [Article](https://news.wisc.edu/discovery-reveals-fragile-x-syndrome-begins-developing-even-before-birth/)
