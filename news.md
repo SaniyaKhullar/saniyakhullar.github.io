@@ -9,7 +9,13 @@ title: ""
 #### 2021:
 - February 2021: International Society for Computational Biology - Student Council (ISCB-SC) Webinar [Predicting regulatory mechanisms in Alzheimer's disease progression
 ](https://www.youtube.com/watch?v=ITwEzqhQnZU&list=PL_3UUp3wcnVbpTH4UfeybVhGcjyML3N2h)
-- March 2021: [Research Day 2021 Poster Session Award Winners](https://www.adrc.wisc.edu/news/research-day-2021-poster-session-award-winners)<br>
+- March 2021: [Research Day 2021 Poster Session Award Winners](https://www.adrc.wisc.edu/news/research-day-2021-poster-session-award-winners)
+- June 2021: [Sciencmag.com: SARS-CoV-2 infections may trigger antibody responses against multiple virus proteins](https://scienmag.com/sars-cov-2-infections-may-trigger-antibody-responses-against-multiple-virus-proteins/)
+- June 2021: [SARS-CoV-2 infections may trigger antibody responses against multiple virus proteins: Study suggests vaccines, therapeutics, and diagnostics should not be limited to spike protein](https://www.sciencedaily.com/releases/2021/06/210621160528.htm)
+- June 2021: [Medicalxpress: SARS-CoV-2 infections may trigger antibody responses against multiple virus proteins](https://medicalxpress.com/news/2021-06-sars-cov-infections-trigger-antibody-responses.html?src_id=alt)
+- June 2021: [The Times of India: SARS-Cov-2 infections may trigger antibody responses against multiple virus proteins](https://health.economictimes.indiatimes.com/news/industry/sars-cov-2-infections-may-trigger-antibody-responses-against-multiple-virus-proteins/83735250)
+- June 2021: [Physician's Weekly: Multiple Virus Proteins Implicated in Covid-19 Antibody Response](https://www.physiciansweekly.com/multiple-virus-proteins-implicated-in-covid-19-antibody-response/?alm_mvr=0)
+<br>
 
 #### 2022: 
 - April 2022: Alzheimer's Disease & Related Dementias Research Day (ADRD) 2022 
