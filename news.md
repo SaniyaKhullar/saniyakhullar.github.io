@@ -27,3 +27,11 @@ title: ""
 - February 2023: [New Machine Learning Tool Helps Researchers Demonstrate Effectiveness of Stem Cell Based Models](https://www.waisman.wisc.edu/2023/02/27/new-machine-learning-tool-helps-researchers-demonstrate-effectiveness-of-stem-cell-based-models/)
 - June 2023: Attendees of the 2023 NLM T15 Training Conference Hosted by Stanford University’s Department of Biomedical Data Science (DBDS) [Focus Talks](https://dbds.stanford.edu/national-library-of-medicine-nlm-t15-training-conference/#focus-talks)
 - October 2023: Discovery reveals fragile X syndrome begins developing even before birth (based on co-author paper) [Article](https://news.wisc.edu/discovery-reveals-fragile-x-syndrome-begins-developing-even-before-birth/)
+
+
+#### 2024:
+- May 2024: [Yale School of Medicine: Single-Cell Genomics and Regulatory Networks for 388 Human Brains](https://medicine.yale.edu/news-article/single-cell-genomics-and-regulatory-networks-for-388-human-brains/) 
+- May 2024: [PsychENCODE Research Collection Uncovers Molecular Processes in Brain Development, Disease](https://www.genomeweb.com/sequencing/psychencode-research-collection-uncovers-molecular-processes-brain-development-disease)
+- May 2024: [Tracking the cellular and genetic roots of neuropsychiatric disease
+](https://medicalxpress.com/news/2024-05-tracking-cellular-genetic-roots-neuropsychiatric.html#google_vignette)
+- June 2024: [NIH National Institute on Aging](https://www.nia.nih.gov/news/scientists-map-gene-regulating-networks-human-brain)

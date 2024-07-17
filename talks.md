@@ -15,14 +15,15 @@ Please note that I have presented directly for these posters/talks:<br>
 •	[U.W. – Madison CIBM and Biomedical Data Science Annual Retreat, Madison, WI, Poster and short talk, 2022.](http://www.cibm.wisc.edu/retreat/)<br>
 •	[St. Jude Children’s Research Hospital Future Fellow Research Conference (FFRC), Memphis, Tennessee, Poster, 2022.](https://www.stjude.org/education-training/predoctoral-training/graduate-students/national-graduate-student-symposium-ngss.html)<br>
 •	Annual Center for Genomic Science Innovation (CGSI) Genomics Retreat, University of Wisconsin - Madison, Madison, Wisconsin, Poster, 2022.<br>
-•	National Library of Medicine (NLM) Informatics Annual Training Annual Conference, State University of New York at Buffalo, Buffalo, New York, Poster, 2022.<br>
+•	[National Library of Medicine (NLM) Informatics Annual Training Annual Conference, State University of New York at Buffalo, Buffalo, New York, Poster, 2022.](https://ubwp.buffalo.edu/nlm2022/)<br>
 •	International Society for Molecular Biology (ISMB) Conference, Madison, Wisconsin, Poster and recorded talk, 2022.<br>
 •	[Alzheimer’s Association International Conference (AAIC), San Diego, California, Poster, 2022.](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.068648)<br>
 •	American Society for Human Genetics (ASHG), Los Angeles, California, 15-minute Platform (Oral) Presentation, 2022.<br>
 •	[Computation and Informatics in Biology and Medicine Seminar, U.W.-Madison, Madison, Wisconsin, 1 hour talk, 2023.](https://cibm.wisc.edu/events-calendar/predicting-brain-regional-gene-regulatory-networks-from-multi-omics-for-alzheimers-disease-phenotypes-and-covid-19-severity/)<br>
 •	Annual Center for Genomic Science Innovation (CGSI) Genomics Retreat, University of Wisconsin - Madison, Madison, Wisconsin, Poster and Lightning Talk, 2023.<br>
-•	Peripheral Nerve Society (PNS) Annual Meeting, Copenhagen, Denmark, Poster, 2023.<br>
+•	Peripheral Nerve Society (PNS) Annual Meeting, Copenhagen, Denmark, Poster, 2023. (Represented by: Distinguished Professor John Svaren)<br>
 •	[National Library of Medicine (NLM) Informatics Annual Training Annual Conference, Stanford University, Palo Alto, California, 8-minute Platform Focus Presentation, 2023.](https://dbds.stanford.edu/national-library-of-medicine-nlm-t15-training-conference/)<br>
+•	[Cold Spring Harbor Lab (CSHL) Systems Biology: Global Regulation of Gene Expression meeting, Cold Spring Harbor Lab, New York, Poster, 2024](https://meetings.cshl.edu/abstracts.aspx?meet=SYSTEMS&year=24).<br>
 <br>
 ## Videos to help prepare for conferences/presentations:
 Please note that I have some YouTube tutorial videos related to conferences
