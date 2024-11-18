@@ -9,7 +9,8 @@ Please note that my papers and citations are available online at: 👩‍💻
 Please note my publications 🤓📚🧬 are as follows 📖 : 
 <!-- https://emojipedia.org/people -->
 ### Revisions/Under Review/Preprints: ✏️
--	Raghu Ramesh, **Saniya Khullar**, Seogsik Won, Alena J. Hanson, Camila Lopez-Anido, Daifeng Wang, John Svaren, *Integration of Nuclear Receptors into a Schwann cell-specific Gene Regulatory Network*, submitted
+-	James A. Kentro, Gunjan Singh, Tuan M. Pham, Justin Currie, **Saniya Khullar**, Audrey T. Medeiros, Erica Larschan, Kate M. O’Connor-Giles, *Synaptic gene expression is coordinated across development by conserved chromatin regulators*, [Pre-print Link](https://www.biorxiv.org/content/10.1101/2024.10.30.621128v1.full)
+-	Raghu Ramesh, **Saniya Khullar**, Seogsik Won, Alena J. Hanson, Camila Lopez-Anido, Daifeng Wang, John Svaren, *Integration of Nuclear Receptors into a Schwann cell-specific Gene Regulatory Network*, submitted.
 -   **Saniya Khullar**, Xiang Huang, Raghu Ramesh, John Svaren, Daifeng Wang, *NetREm: Network Regression Embeddings reveal cell-type transcription factor coordination for gene regulation*, under review, Biorxiv. [Pre-print Link](https://www.biorxiv.org/content/10.1101/2023.10.25.563769v1)
 -	Bo P. Lear, Elizabeth A.N. Thompson, Kendra Rodriguez, Zachary P. Arndt, **Saniya Khullar**, Payton Klosa, Ryan Lu, Christopher S. Morrow, Ryan Risgaard, Ella R. Peterson, Brian Teefy, Anita Bhattacharyya, Andre M.M. Sousa, Daifeng Wang, Berenice Benayoun, Darcie L. Moore, *Age-specific imprinting through direct reprogramming reveals a developmental loss of intrinsic neurite growth ability in human neurons*, in revision, Biorxiv. [Pre-print Link](https://www.biorxiv.org/content/10.1101/2023.10.25.563769v2)
 

@@ -4,7 +4,7 @@ title: ""
 ---
 ## About Me :D
 
-Hi everyone! I am Saniya Khullar :D
+Hi everyone! I am Saniya Khullar, Ph.D. 😃 🐧
 
 <form action="https://formspree.io/f/xbjvwvly" method="POST" class="form" id="contact-form">
   <p>:D Please note that you can send me a quick message using the form below:</p>
