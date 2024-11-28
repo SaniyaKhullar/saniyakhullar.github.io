@@ -9,6 +9,8 @@ Please note that my papers and citations are available online at: 👩‍💻
 Please note my publications 🤓📚🧬 are as follows 📖 : 
 <!-- https://emojipedia.org/people -->
 ### Revisions/Under Review/Preprints: ✏️
+-   Chirag Gupta, Noah Cohen Kalafut, Declan Clarke, Jerome J. Choi, Kalpana Hanthanan Arachchilage, **Saniya Khullar**, Yan Xia, Xiao Zhou, Mark Gerstein, Daifeng Wang, *Network-based drug repurposing for psychiatric disorders using single-cell genomics*, Pre-print Link.
+-	Albert R. Wang, Manlu Liu, Jared A. Brown, Darya Buehler, **Saniya Khullar**, Christina Kendziorski, Andrew M. Baschnagel, Gopal Iyer, *Coordinated Immune-ECM Transcriptional Changes Drive Brain Metastatic Progression in Lung Adenocarcinoma*, submitted.
 -	James A. Kentro, Gunjan Singh, Tuan M. Pham, Justin Currie, **Saniya Khullar**, Audrey T. Medeiros, Erica Larschan, Kate M. O’Connor-Giles, *Synaptic gene expression is coordinated across development by conserved chromatin regulators*, [Pre-print Link](https://www.biorxiv.org/content/10.1101/2024.10.30.621128v1.full)
 -	Raghu Ramesh, **Saniya Khullar**, Seogsik Won, Alena J. Hanson, Camila Lopez-Anido, Daifeng Wang, John Svaren, *Integration of Nuclear Receptors into a Schwann cell-specific Gene Regulatory Network*, submitted.
 -   **Saniya Khullar**, Xiang Huang, Raghu Ramesh, John Svaren, Daifeng Wang, *NetREm: Network Regression Embeddings reveal cell-type transcription factor coordination for gene regulation*, under review, Biorxiv. [Pre-print Link](https://www.biorxiv.org/content/10.1101/2023.10.25.563769v1)
