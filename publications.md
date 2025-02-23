@@ -10,6 +10,7 @@ Please note that my papers and citations are available online at: 👩‍💻
 Please note my publications 🤓📚🧬 are as follows 📖 : 
 <!-- https://emojipedia.org/people -->
 ### Revisions/Under Review/Preprints: ✏️
+-   Aditi Chandrashekar, Rohan Gala, Andreas Tjärnberg, **Saniya Khullar**, Grace Huynh, Mariano Ignacio Gabitto, *TabVI: Leveraging Lightweight Transformer Architectures to Learn Biologically Meaningful Cellular Representations*, [Pre-print Link](https://www.biorxiv.org/content/10.1101/2025.02.13.637984v1.full)
 -   Chirag Gupta, Noah Cohen Kalafut, Declan Clarke, Jerome J. Choi, Kalpana Hanthanan Arachchilage, **Saniya Khullar**, Yan Xia, Xiao Zhou, Mark Gerstein, Daifeng Wang, *Network-based drug repurposing for psychiatric disorders using single-cell genomics*, [Pre-print Link](https://www.medrxiv.org/content/10.1101/2024.12.01.24318008v1).
 -	Albert R. Wang, Manlu Liu, Jared A. Brown, Darya Buehler, **Saniya Khullar**, Christina Kendziorski, Andrew M. Baschnagel, Gopal Iyer, *Coordinated Immune-ECM Transcriptional Changes Drive Brain Metastatic Progression in Lung Adenocarcinoma*, submitted.
 -	James A. Kentro, Gunjan Singh, Tuan M. Pham, Justin Currie, **Saniya Khullar**, Audrey T. Medeiros, Erica Larschan, Kate M. O’Connor-Giles, *Conserved transcription factors coordinate synaptic gene expression through repression*, [Pre-print Link](https://www.biorxiv.org/content/10.1101/2024.10.30.621128v2)
