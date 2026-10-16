@@ -22,8 +22,8 @@ Please note my publications 🤓📚🧬 are as follows 📖 :
 -	Bo Peng Lear, Elizabeth A.N. Thompson, Kendra Rodriguez, Zachary P. Arndt, **Saniya Khullar**, Payton Klosa, Ryan Lu, Christopher S. Morrow, Ryan Risgaard, Ella R. Peterson, Brian Teefy, Anita Bhattacharyya, Andre M.M. Sousa, Daifeng Wang, Berenice Benayoun, Darcie L. Moore, *Age-specific imprinting through direct reprogramming reveals a developmental loss of intrinsic neurite growth ability in human neurons*, in revision, BioRxiv. [Pre-print Link](https://www.biorxiv.org/content/10.1101/2023.10.25.563769v2)
 
 ## Published: 😺 
-#### Direct authorships
 ### 2026: ⌛
+#### Direct authorships
 - Tobi Alegbe, Bradley T. Harris, Laura Fachal, Lucia Ramirez Navarro, Marcus Tutert, Monika Krzak, Mennatallah Ghouraba, Michelle Strickland, Matiss Ozols, Celeste Cohen, **Saniya Khullar**, Eleonora Khabirova, Nikolaos I. Panousis, David Ochoa, Noor Wana, May Xueqi Hu, Jason Skelton, Jasmin Ostermayer, Kimberley Ai Xian Cheam, D. Leland Taylor, Yong Gu, Claire Dawson, Tina Thompson, Kenneth Arestang, Nilanga Nishad, Steven Leonard, Vivek Iyer, Rebecca E. McIntyre, Miles Parkes, Chris Wallace, Cristina Cotobal Martin, Gareth-Rhys Jones, Tim Raine, Carl A. Anderson, *Cell-type-resolved genetic regulatory variation shapes inflammatory bowel disease risk*, Nature. [Link](https://www.nature.com/articles/s41586-026-10627-z)
 #### Consortium authorships
 - Pramod Bharadwaj Chandrashekar, Sayali Anil Alatkar, Noah Cohen Kalafut, Ting Jin, Chirag Gupta, Ryan Conway Burczak, Xiang Huang, Shuang Liu, Athan Z. Li, **PsychAD Consortium** [§](https://psych-ad.org/people/) (including **Saniya Khullar**), Kiran Girdhar, Georgios Voloudakis, Gabriel E Hoffman, Jaroslav Bendl, John F. Fullard, Donghoon Lee, Panos Roussos, Daifeng Wang, *Personalized single-cell transcriptomics reveals molecular diversity in Alzheimer’s disease*, Nature Communications. [Link](https://www.nature.com/articles/s41467-026-72310-1)
